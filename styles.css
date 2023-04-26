@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+header{
+	background-color: #011e29;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
