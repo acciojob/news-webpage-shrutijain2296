@@ -8,6 +8,7 @@ header{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 
 .container{
@@ -44,7 +45,7 @@ header{
 	font-size: 14px;
 }
 
-.pictures{
+.pictorial-news-section{
 	background-color: white;
 	height:550px;
 	width: 200px;
@@ -56,10 +57,10 @@ header{
 	flex-direction: column;
 	
 }
-.pictures h3{
+.pictorial-news-section h3{
 	text-align: center;
 }
-.pictures img{
+.pictorial-news-section img{
 	height: 120px;
 	width:  180px;
 
