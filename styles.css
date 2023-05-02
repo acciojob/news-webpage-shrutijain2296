@@ -18,7 +18,7 @@ header{
 	
 }
 
-.first-box{
+.latest-news-section{
 	height: 120px;
 	width: 180px;
 	background-color: white;
@@ -27,7 +27,7 @@ header{
 	border-radius: 15px;
 	text-align: center;
 }
-.first-box li{
+.latest-news-section li{
 	font-size: 14px;
 }
 .main-article{
@@ -56,7 +56,7 @@ header{
 	flex-direction: column;
 	
 }
-.pictures h4{
+.pictures h3{
 	text-align: center;
 }
 .pictures img{
