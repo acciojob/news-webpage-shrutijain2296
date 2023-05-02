@@ -55,7 +55,7 @@ header{
 	justify-content: space-around;
 	align-content: center;
 	flex-direction: column;
-	
+	text-align: center;
 }
 .pictorial-news-section h3{
 	text-align: center;
