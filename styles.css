@@ -46,12 +46,22 @@ header{
 
 .pictures{
 	background-color: white;
-	height:1500px
-	width: 150px;
+	height:550px;
+	width: 200px;
 	border-radius: 15px;
 	margin-top: 10px;
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+	flex-direction: column;
+	
+}
+.pictures h4{
+	text-align: center;
 }
 .pictures img{
 	height: 120px;
-	width:  150px;
+	width:  180px;
+
+	align-self: center;
 }
